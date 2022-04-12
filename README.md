@@ -1,0 +1,2 @@
+# Algorithm-Sorting-Visualizer
+ Create a web application  to visualize how various sorting      algorithms (Bubble sort,Selection sort,Insertion sort,Quick      sort,Merge sort) work. 2. Created the website's User Interface (UI) using HTML, CSS       and enhancing it further using Bootstrap. 3.Implementation of animations, effects and core functionalities     (sorting algorithms) using JavaScript.
